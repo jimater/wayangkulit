@@ -1,1 +1,36 @@
-xml
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Increases brand exposure</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Helps gather app reviews and ratings </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Additional marketing channel diversification</span></li>
+</ol>
+<p><span style="font-weight: 400;">Optimizing your app’s visibility is an ongoing process. Your goal as a developer is to drive traffic. With the right dedication to ASO, and consistently measuring of results (rankings, impressions, reviews, ratings, and downloads), <span style="color: #ff57f1;">you can succeed in the Google Play Store.</span></span></p>
+<p><span style="font-weight: 400;">Below is an explanation on how ASO works and some tips on what you can do right away.</span></p>
+<h2><b>How ASO works</b></h2>
+<p><span style="font-weight: 400;">There are actually two distinct methods on ASO that marketers use: keyword optimization and conversion rate optimization. </span></p>
+<p><b><i>Keyword optimization</i></b><span style="font-weight: 400;"> is ensuring relevant and important keywords are found in the app’s metadata in order to increase the ranking strength of target keywords. </span></p>
+<p><span style="font-weight: 400;">Here are some tips you can do for keyword optimization:</span></p>
+<p><span style="font-weight: 400;">1. Keyword Ideas</span></p>
+<p><span style="font-weight: 400;">Come up with <span style="color: #ff57f1;">at least 50 keywords</span>. You can use ASO tools to look for keywords. Examples of keyword tools are Keyword Suggestions (for iOS), Ubersuggest, OneLook Reverse Dictionary. Don’t worry, they’re free!</span></p>
+<p><span style="font-weight: 400;">2. Put the keywords in the right places: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">app name, </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">app subtitles (for iOS), </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">app description, </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">app promotional text (for iOS), </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">app store keyword field (for iOS)</span></li>
+</ul>
+<p><b><i>Conversion rate optimization</i></b><span style="font-weight: 400;"> is increasing downloads of your app by optimizing your app’s assets (e.g. icon, preview video, screenshots, etc.). Conversion rate optimization involves creating different variations of each asset, showing each variation to users, and comparing the conversion rate of each variant in a process called </span><b>A/B Testing. </b><span style="font-weight: 400;">Google Play facilitates this process with A/B Testing platform built into Google Play Console for marketers. For Apple App Store, ASO marketers can run A/B tests through a third party.</span></p>
+
+
+/rss
