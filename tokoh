@@ -30,5 +30,5 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 <title>Tanpa Link</title>
 <guid>https://www.mysite.com/?p=584674</guid>
 <pubDate>Thu, 01 Aug 2019 11:10:55 +0000</pubDate>
-<description>This is the description of the content...<p>Wayang Kulit adalah</p></description>
+<description><![CDATA[<p>This is the description of the content...</p><p>Wayang Kulit adalah</p>]]></description>
 </item>	
