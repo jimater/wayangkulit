@@ -18,4 +18,10 @@
 <REF HREF="http://pu.klikhost.com:8012/stream" />
 </ENTRY>
 
+<ENTRY>
+<TITLE>Idola FM Semarang</TITLE>
+<ABSTRACT>@kasfc/wayangkulit</ABSTRACT>
+<REF HREF="http://server.radioidola.com:8888/idolamp3" />
+</ENTRY>
+
 </ASX>
